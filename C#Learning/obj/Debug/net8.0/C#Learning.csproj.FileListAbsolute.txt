@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\bin\Debug\net8.0\C#Learning.exe
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\bin\Debug\net8.0\C#Learning.deps.json
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\bin\Debug\net8.0\C#Learning.runtimeconfig.json
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\bin\Debug\net8.0\C#Learning.dll
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\bin\Debug\net8.0\C#Learning.pdb
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.dll
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\refint\C#Learning.dll
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.pdb
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\C#Learning.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\C#Learning\C#Learning\obj\Debug\net8.0\ref\C#Learning.dll
